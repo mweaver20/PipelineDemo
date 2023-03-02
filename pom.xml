@@ -51,7 +51,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>Morgans-workflow-pipeline</finalName>
+        <finalName>morgans-workflow-pipeline</finalName>
     </build>
 
 </project>
